@@ -9,6 +9,8 @@ richest_people_list = {
     "Mark Zukerberg": "180 Billion USD"    
 }
 
+# End Point
 @app.get("/richest-people")
 def richest_people():
     return richest_people_list
+
