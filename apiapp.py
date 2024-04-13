@@ -14,4 +14,3 @@ richest_people_list = {
 def richest_people():
     return richest_people_list
 
-api_endpoint_url = https://richestpeoplefastapi-b775f695a753.herokuapp.com/richest-people
